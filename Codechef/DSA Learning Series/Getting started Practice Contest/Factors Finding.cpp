@@ -17,4 +17,5 @@ int main() {
     for(int j=0; j<fact.size(); j++) {
         cout<<fact[j]<<' ';
     }
+    return 0;
 }
